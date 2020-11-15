@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16230" started-at="2020-11-15T05:42:42Z" finished-at="2020-11-15T05:42:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16230" started-at="2020-11-15T05:42:42Z" finished-at="2020-11-15T05:42:58Z">
+      <class name="com.TestRunner.TestRunner">
+        <test-method status="PASS" signature="lunchbrowser()[pri:0, instance:com.TestRunner.TestRunner@53ca01a2]" name="lunchbrowser" is-config="true" duration-ms="7494" started-at="2020-11-15T05:42:34Z" finished-at="2020-11-15T05:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchbrowser -->
+        <test-method status="PASS" signature="geturl()[pri:0, instance:com.TestRunner.TestRunner@53ca01a2]" name="geturl" is-config="true" duration-ms="9664" started-at="2020-11-15T05:42:42Z" finished-at="2020-11-15T05:42:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- geturl -->
+        <test-method status="PASS" signature="max()[pri:0, instance:com.TestRunner.TestRunner@53ca01a2]" name="max" is-config="true" duration-ms="2239" started-at="2020-11-15T05:42:52Z" finished-at="2020-11-15T05:42:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- max -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:com.TestRunner.TestRunner@53ca01a2]" name="tc1" duration-ms="570" started-at="2020-11-15T05:42:54Z" finished-at="2020-11-15T05:42:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:com.TestRunner.TestRunner@53ca01a2]" name="tc2" duration-ms="207" started-at="2020-11-15T05:42:54Z" finished-at="2020-11-15T05:42:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:com.TestRunner.TestRunner@53ca01a2]" name="tc3" duration-ms="3460" started-at="2020-11-15T05:42:55Z" finished-at="2020-11-15T05:42:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="testcom()[pri:0, instance:com.TestRunner.TestRunner@53ca01a2]" name="testcom" is-config="true" duration-ms="1" started-at="2020-11-15T05:42:58Z" finished-at="2020-11-15T05:42:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcom -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.TestRunner.TestRunner@53ca01a2]" name="quit" is-config="true" duration-ms="1199" started-at="2020-11-15T05:42:58Z" finished-at="2020-11-15T05:42:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.TestRunner.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
